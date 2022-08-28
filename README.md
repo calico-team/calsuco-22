@@ -80,3 +80,43 @@ Problem statements describe the problem contestants need to solve, as well as th
 If you can take some time to fill out [this feedback form](https://forms.gle/H4m2tERyjRKxPtiC6) and let us know how we did, that would be tremendously appreciated! We work hard to improve the contest experience for everyone, and any and all feedback is extremely helpful.
 
 This is the same feedback form sent in the post-contest email. But if you have any new feedback for the editorials or solutions, feel free to submit another response!
+
+## Credits
+
+Contest organized by Chris Liu and Ryan Zhu.
+
+### Ice Cream Bars!
+
+Written, prepared, and solutions by Ryan Zhu.
+<br>
+Editorial by Ryan Zhu and Aleksandar A. Yanev.
+
+### Rock Paper Strategy!
+
+Written, prepared, solutions, and editorial by Ryan Zhu.
+
+### Making the title<br>for this programming problem<br>was a lot of work
+
+Written and prepared by Ryan Zhu.
+<br>
+Solutions by Ryan Zhu and Chris Liu.
+<br>
+Editorial by Ryan Zhu.
+
+### CALICO’s Corporate Conundrum
+
+Written and prepared by Chris Liu.
+<br>
+Solutions by Chris Liu and Ryan Zhu.
+<br>
+Editorial by Aleksandar A. Yanev, Chris Liu, and Ryan Zhu.
+
+### Special Thanks to:
+
+Aleksandar A. Yanev, Emma Fu, and Anthony Chang for proofreading and providing feedback for the editorial.
+<br>
+Xavier Plourde for testing the problems on the judge platform.
+<br>
+Manuel Calva Hernandez for contributing formatted solutions in C++.
+<br>
+... and all of you for taking the time to participate in our contests and reading our solutions!
