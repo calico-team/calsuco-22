@@ -75,3 +75,8 @@ Problem statements describe the problem contestants need to solve, as well as th
 │   └── ...
 └── ...
 ```
+
+## Feedback
+If you can take some time to fill out [this feedback form](https://forms.gle/H4m2tERyjRKxPtiC6) and let us know how we did, that would be tremendously appreciated! We work hard to improve the contest experience for everyone, and any and all feedback is extremely helpful.
+
+This is the same feedback form sent in the post-contest email. But if you have any new feedback for the editorials or solutions, feel free to submit another response!
