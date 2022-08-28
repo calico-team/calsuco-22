@@ -62,10 +62,10 @@ Problem statements describe the problem contestants need to solve, as well as th
 │   ├── [problem name].pdf
 │   ├── [problem name]-editorial.pdf
 │   ├── solutions
-│   │   ├── [problem name]_[solution name].[cpp | java | py]
+│   │   ├── [problem name]_[solution name].[extension]
 │   │   └── ...
 │   ├── templates
-│   │   ├── [problem name]_template.[cpp | java | py]
+│   │   ├── [problem name]_template.[extension]
 │   │   └── ...
 │   └── tests
 │       ├── sample.in
